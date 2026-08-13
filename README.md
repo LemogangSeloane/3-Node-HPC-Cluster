@@ -34,4 +34,6 @@ https://github.com/LemogangSeloane/3-Node-HPC-Cluster/blob/03d85f2c6faeb2e069349
 
 https://github.com/LemogangSeloane/3-Node-HPC-Cluster/blob/0da3e74dd054b06fae482f6690976d6f8875acc9/11.PNG
 
+https://github.com/LemogangSeloane/3-Node-HPC-Cluster/blob/e19d1bec82feed655551d925c3c5193ebf017246/12.PNG
+
 
